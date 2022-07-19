@@ -1,0 +1,3677 @@
+[
+  {
+    "airport": "Aberdeen (SD)",
+    "country": "USA",
+    "iata": "ABR"
+  },
+  {
+    "airport": "Abilene (TX)",
+    "country": "USA",
+    "iata": "ABI"
+  },
+  {
+    "airport": "Acapulco",
+    "country": "Mexico",
+    "iata": "ACA"
+  },
+  {
+    "airport": "Aguascaliente",
+    "country": "Mexico",
+    "iata": "AGU"
+  },
+  {
+    "airport": "Akron (OH)",
+    "country": "USA",
+    "iata": "CAK"
+  },
+  {
+    "airport": "Albany (GA)",
+    "country": "USA",
+    "iata": "ABY"
+  },
+  {
+    "airport": "Albany (NY) - Albany International Airport",
+    "country": "USA",
+    "iata": "ALB"
+  },
+  {
+    "airport": "Albuquerque (NM)",
+    "country": "USA",
+    "iata": "ABQ"
+  },
+  {
+    "airport": "Alexandria - Esler Field",
+    "country": "USA (LA)",
+    "iata": "ESF"
+  },
+  {
+    "airport": "Allentown (PA)",
+    "country": "USA",
+    "iata": "ABE"
+  },
+  {
+    "airport": "Altoona (PA)",
+    "country": "USA",
+    "iata": "AOO"
+  },
+  {
+    "airport": "Altus",
+    "country": "USA",
+    "iata": "AXS"
+  },
+  {
+    "airport": "Amarillo (TX)",
+    "country": "USA",
+    "iata": "AMA"
+  },
+  {
+    "airport": "Anchorage (AK) - Ted Stevens Anchorage International",
+    "country": "USA",
+    "iata": "ANC"
+  },
+  {
+    "airport": "Ann Arbor (MI)",
+    "country": "USA",
+    "iata": "ARB"
+  },
+  {
+    "airport": "Anniston (AL)",
+    "country": "USA",
+    "iata": "ANB"
+  },
+  {
+    "airport": "Antigua, V.C. Bird International",
+    "country": "Antigua and Barbuda",
+    "iata": "ANU"
+  },
+  {
+    "airport": "Appelton/Neenah/Menasha (WI)",
+    "country": "USA",
+    "iata": "ATW"
+  },
+  {
+    "airport": "Aracaju",
+    "country": "Brazil",
+    "iata": "AJU"
+  },
+  {
+    "airport": "Asheville (NC)",
+    "country": "USA",
+    "iata": "AVL"
+  },
+  {
+    "airport": "Aspen, (CO) - Aspen-Pitkin County Airport",
+    "country": "USA",
+    "iata": "ASE"
+  },
+  {
+    "airport": "Asuncion - Asunción International Airport",
+    "country": "Paraguay",
+    "iata": "ASU"
+  },
+  {
+    "airport": "Athens (GA)",
+    "country": "USA",
+    "iata": "AHN"
+  },
+  {
+    "airport": "Athens (OH)",
+    "country": "USA",
+    "iata": "ATO"
+  },
+  {
+    "airport": "Atlanta (GA) - Hartsfield Atlanta International Airport",
+    "country": "USA",
+    "iata": "ATL"
+  },
+  {
+    "airport": "Atlantic City (NJ) - Atlantic City International",
+    "country": "USA",
+    "iata": "ACY"
+  },
+  {
+    "airport": "Attawapiskat, NT",
+    "country": "Canada",
+    "iata": "YAT"
+  },
+  {
+    "airport": "Augusta (GA)",
+    "country": "USA",
+    "iata": "AGS"
+  },
+  {
+    "airport": "Augusta (ME) - Augusta State Airport",
+    "country": "USA",
+    "iata": "AUG"
+  },
+  {
+    "airport": "Austin (TX) - Austin-Bergstrom Airport",
+    "country": "USA",
+    "iata": "AUS"
+  },
+  {
+    "airport": "Bahamas - Lynden Pindling International Airport",
+    "country": "The Bahamas",
+    "iata": "NAS"
+  },
+  {
+    "airport": "Bakersfield (CA)",
+    "country": "USA",
+    "iata": "BFL"
+  },
+  {
+    "airport": "Bangor (ME)",
+    "country": "USA",
+    "iata": "BGR"
+  },
+  {
+    "airport": "Barcelona",
+    "country": "Venezuela",
+    "iata": "BLA"
+  },
+  {
+    "airport": "Barranquilla",
+    "country": "Colombia",
+    "iata": "BAQ"
+  },
+  {
+    "airport": "Basseterre - Robert L. Bradshaw International Airport",
+    "country": "Saint Kitts and Nevis",
+    "iata": "SKB"
+  },
+  {
+    "airport": "Baton Rouge (LA) - Baton Rouge Metropolitan Airport",
+    "country": "USA",
+    "iata": "BTR"
+  },
+  {
+    "airport": "Beaumont/Pt. Arthur (TX)",
+    "country": "USA",
+    "iata": "BPT"
+  },
+  {
+    "airport": "Beckley (WV)",
+    "country": "USA",
+    "iata": "BKW"
+  },
+  {
+    "airport": "Belem - Val de Cans International Airport",
+    "country": "Brazil",
+    "iata": "BEL"
+  },
+  {
+    "airport": "Belize City - Philip S.W.Goldson International",
+    "country": "Belize",
+    "iata": "BZE"
+  },
+  {
+    "airport": "Bellingham (WA)",
+    "country": "USA",
+    "iata": "BLI"
+  },
+  {
+    "airport": "Belo Horizonte - Tancredo Neves International Airport",
+    "country": "Brazil",
+    "iata": "CNF"
+  },
+  {
+    "airport": "Bemidji (MN)",
+    "country": "USA",
+    "iata": "BJI"
+  },
+  {
+    "airport": "Benton Harbour (MI)",
+    "country": "USA",
+    "iata": "BEH"
+  },
+  {
+    "airport": "Bethel (AK)",
+    "country": "USA",
+    "iata": "BET"
+  },
+  {
+    "airport": "Billings (MT)",
+    "country": "USA",
+    "iata": "BIL"
+  },
+  {
+    "airport": "Birmingham (AL)",
+    "country": "USA",
+    "iata": "BHM"
+  },
+  {
+    "airport": "Bismarck (ND) - Bismarck Municipal Airport",
+    "country": "USA",
+    "iata": "BIS"
+  },
+  {
+    "airport": "Bloomington (IL)",
+    "country": "USA",
+    "iata": "BMI"
+  },
+  {
+    "airport": "Bloomington (IN)",
+    "country": "USA",
+    "iata": "BMG"
+  },
+  {
+    "airport": "Bluefield (WV)",
+    "country": "USA",
+    "iata": "BLF"
+  },
+  {
+    "airport": "Boa Vista",
+    "country": "Brazil",
+    "iata": "BVB"
+  },
+  {
+    "airport": "Bogota - El Nuevo Dorado International Airport",
+    "country": "Colombia",
+    "iata": "BOG"
+  },
+  {
+    "airport": "Boise (ID) - Boise Air Terminal",
+    "country": "USA",
+    "iata": "BOI"
+  },
+  {
+    "airport": "Bonaventure, PQ",
+    "country": "Canada",
+    "iata": "YVB"
+  },
+  {
+    "airport": "Borrego Springs (CA)",
+    "country": "USA",
+    "iata": "BXS"
+  },
+  {
+    "airport": "Boston (MA) - General Edward Lawrence Logan",
+    "country": "USA",
+    "iata": "BOS"
+  },
+  {
+    "airport": "Bozeman (MT)",
+    "country": "USA",
+    "iata": "BZN"
+  },
+  {
+    "airport": "Bradford/Warren (PA) /Olean (NY)",
+    "country": "USA",
+    "iata": "BFD"
+  },
+  {
+    "airport": "Brainerd (MN)",
+    "country": "USA",
+    "iata": "BRD"
+  },
+  {
+    "airport": "Brasilia - President Juscelino Kubitschek International",
+    "country": "Brazil",
+    "iata": "BSB"
+  },
+  {
+    "airport": "Bridgeport (CT)",
+    "country": "USA",
+    "iata": "BDR"
+  },
+  {
+    "airport": "Bridgetown - Grantley Adams International",
+    "country": "Barbados",
+    "iata": "BGI"
+  },
+  {
+    "airport": "Brookings (SD)",
+    "country": "USA",
+    "iata": "BKX"
+  },
+  {
+    "airport": "Brunswick (GA)",
+    "country": "USA",
+    "iata": "BQK"
+  },
+  {
+    "airport": "Bucaramanga",
+    "country": "Colombia",
+    "iata": "BGA"
+  },
+  {
+    "airport": "Buenos Aires",
+    "country": "Argentina",
+    "iata": "BUE"
+  },
+  {
+    "airport": "Buenos Aires, Ezeiza International Airport",
+    "country": "Argentina",
+    "iata": "EZE"
+  },
+  {
+    "airport": "Buenos Aires, Jorge Newbery",
+    "country": "Argentina",
+    "iata": "AEP"
+  },
+  {
+    "airport": "Buffalo/Niagara Falls (NY)",
+    "country": "USA",
+    "iata": "BUF"
+  },
+  {
+    "airport": "Bullhead City (NV)",
+    "country": "USA",
+    "iata": "BHC"
+  },
+  {
+    "airport": "Burbank (CA)",
+    "country": "USA",
+    "iata": "BUR"
+  },
+  {
+    "airport": "Burlington IA",
+    "country": "USA",
+    "iata": "BRL"
+  },
+  {
+    "airport": "Burlington (VT)",
+    "country": "USA",
+    "iata": "BTV"
+  },
+  {
+    "airport": "Butte (MT)",
+    "country": "USA",
+    "iata": "BTM"
+  },
+  {
+    "airport": "Calama - El Loa",
+    "country": "Chile",
+    "iata": "CJC"
+  },
+  {
+    "airport": "Calgary - Calgary International Airport",
+    "country": "Canada",
+    "iata": "YYC"
+  },
+  {
+    "airport": "Cali",
+    "country": "Colombia",
+    "iata": "CLO"
+  },
+  {
+    "airport": "Cambridge Bay",
+    "country": "Canada",
+    "iata": "YCB"
+  },
+  {
+    "airport": "Campo Grande",
+    "country": "Brazil",
+    "iata": "CGR"
+  },
+  {
+    "airport": "Cancun",
+    "country": "Mexico",
+    "iata": "CUN"
+  },
+  {
+    "airport": "Canouan (island) - Canouan Airport",
+    "country": "Saint Vincent & the Grenadines",
+    "iata": "CIW"
+  },
+  {
+    "airport": "Caracas - Simón Bolívar International Airport",
+    "country": "Venezuela",
+    "iata": "CCS"
+  },
+  {
+    "airport": "Carlsbad (CA)",
+    "country": "USA",
+    "iata": "CLD"
+  },
+  {
+    "airport": "Carson City (NV)",
+    "country": "USA",
+    "iata": "CSN"
+  },
+  {
+    "airport": "Casa de Campo - La Romana International Airport",
+    "country": "Dominican Republic",
+    "iata": "LRM"
+  },
+  {
+    "airport": "Casper (WY)",
+    "country": "USA",
+    "iata": "CPR"
+  },
+  {
+    "airport": "Cartagena - Rafael Núñez International Airport",
+    "country": "Colombia",
+    "iata": "CTG"
+  },
+  {
+    "airport": "Castries - George F. L. Charles Airport",
+    "country": "Saint Lucia",
+    "iata": "SLU2"
+  },
+  {
+    "airport": "Cedar City (UT)",
+    "country": "USA",
+    "iata": "CDC"
+  },
+  {
+    "airport": "Cedar Rapids IA",
+    "country": "USA",
+    "iata": "CID"
+  },
+  {
+    "airport": "Champaign (IL)",
+    "country": "USA",
+    "iata": "CMI"
+  },
+  {
+    "airport": "Charleston (SC)",
+    "country": "USA",
+    "iata": "CHS"
+  },
+  {
+    "airport": "Charleston (WV) - Yeager Airport",
+    "country": "USA",
+    "iata": "CRW"
+  },
+  {
+    "airport": "Charlotte (NC)",
+    "country": "USA",
+    "iata": "CLT"
+  },
+  {
+    "airport": "Charlottesville (VA)",
+    "country": "USA",
+    "iata": "CHO"
+  },
+  {
+    "airport": "Chattanooga (TN)",
+    "country": "USA",
+    "iata": "CHA"
+  },
+  {
+    "airport": "Cheyenne (WY) - Cheyenne Regional Airport",
+    "country": "USA",
+    "iata": "CYS"
+  },
+  {
+    "airport": "Chicago (IL), Midway",
+    "country": "USA",
+    "iata": "MDW"
+  },
+  {
+    "airport": "Chicago (IL), O'Hare International Airport",
+    "country": "USA",
+    "iata": "ORD"
+  },
+  {
+    "airport": "Chicago (IL)",
+    "country": "USA",
+    "iata": "CHI"
+  },
+  {
+    "airport": "Chichen Itza",
+    "country": "Mexico",
+    "iata": "CZA"
+  },
+  {
+    "airport": "Chico (CA)",
+    "country": "USA",
+    "iata": "CIC"
+  },
+  {
+    "airport": "Chihuahua - Gen Fierro Villalobos",
+    "country": "Mexico",
+    "iata": "CUU"
+  },
+  {
+    "airport": "Chub Cay",
+    "country": "Bahamas",
+    "iata": "CCZ"
+  },
+  {
+    "airport": "Churchill",
+    "country": "Canada",
+    "iata": "YYQ"
+  },
+  {
+    "airport": "Cienfuegos - Jaime González Airport",
+    "country": "Cuba",
+    "iata": "CFG"
+  },
+  {
+    "airport": "Cincinnati (OH) - Cincinnati/Northern Kentucky Int'l",
+    "country": "USA",
+    "iata": "CVG"
+  },
+  {
+    "airport": "Ciudad Del Carmen",
+    "country": "Mexico",
+    "iata": "CME"
+  },
+  {
+    "airport": "Ciudad Guayana",
+    "country": "Venezuela",
+    "iata": "CGU"
+  },
+  {
+    "airport": "Ciudad Juarez",
+    "country": "Mexico",
+    "iata": "CJS"
+  },
+  {
+    "airport": "Ciudad Obregon",
+    "country": "Mexico",
+    "iata": "CEN"
+  },
+  {
+    "airport": "Ciudad Victoria",
+    "country": "Mexico",
+    "iata": "CVM"
+  },
+  {
+    "airport": "Clarksburg (WV)",
+    "country": "USA",
+    "iata": "CKB"
+  },
+  {
+    "airport": "Cleveland (OH) , Burke Lakefront",
+    "country": "USA",
+    "iata": "BKL"
+  },
+  {
+    "airport": "Cleveland (OH) - Cleveland Hopkins International",
+    "country": "USA",
+    "iata": "CLE"
+  },
+  {
+    "airport": "Cochabamba",
+    "country": "Bolivia",
+    "iata": "CBB"
+  },
+  {
+    "airport": "Cody/Powell/Yellowstone (WY)",
+    "country": "USA",
+    "iata": "COD"
+  },
+  {
+    "airport": "Coffmann Cove (AK)",
+    "country": "USA",
+    "iata": "KCC"
+  },
+  {
+    "airport": "Colima",
+    "country": "Mexico",
+    "iata": "CLQ"
+  },
+  {
+    "airport": "College Station/Bryan (TX)",
+    "country": "USA",
+    "iata": "CLL"
+  },
+  {
+    "airport": "Colorado Springs (CO)",
+    "country": "USA",
+    "iata": "COS"
+  },
+  {
+    "airport": "Columbia (SC) - Columbia Metropolitan Airport",
+    "country": "USA",
+    "iata": "CAE"
+  },
+  {
+    "airport": "Columbus (GA)",
+    "country": "USA",
+    "iata": "CSG"
+  },
+  {
+    "airport": "Columbus (OH) - Port Columbus International",
+    "country": "USA",
+    "iata": "CMH"
+  },
+  {
+    "airport": "Concord (CA) - Buchanan Field",
+    "country": "USA",
+    "iata": "CCR"
+  },
+  {
+    "airport": "Concord (NH) - Concord Municipal Airport",
+    "country": "USA",
+    "iata": "CON"
+  },
+  {
+    "airport": "Cordoba",
+    "country": "Argentina",
+    "iata": "COR"
+  },
+  {
+    "airport": "Cordova (AK)",
+    "country": "USA",
+    "iata": "CDV"
+  },
+  {
+    "airport": "Corpus Christi (TX)",
+    "country": "USA",
+    "iata": "CRP"
+  },
+  {
+    "airport": "Cozmel",
+    "country": "Mexico",
+    "iata": "CZM"
+  },
+  {
+    "airport": "Craig (AK)",
+    "country": "USA",
+    "iata": "CGA"
+  },
+  {
+    "airport": "Crescent City (CA)",
+    "country": "USA",
+    "iata": "CEC"
+  },
+  {
+    "airport": "Cuiaba - Marechal Rondon International Airport",
+    "country": "Brazil",
+    "iata": "CGB"
+  },
+  {
+    "airport": "Culiacan",
+    "country": "Mexico",
+    "iata": "CUL"
+  },
+  {
+    "airport": "Curitiba - Afonso Pena International Airport",
+    "country": "Brazil",
+    "iata": "CWB"
+  },
+  {
+    "airport": "Dallas (TX) , Love Field",
+    "country": "USA",
+    "iata": "DAL"
+  },
+  {
+    "airport": "Dallas/Ft. Worth (TX) - Dallas/Fort Worth International",
+    "country": "USA",
+    "iata": "DFW"
+  },
+  {
+    "airport": "Danville (VA)",
+    "country": "USA",
+    "iata": "DAN"
+  },
+  {
+    "airport": "Dayton (OH)",
+    "country": "USA",
+    "iata": "DAY"
+  },
+  {
+    "airport": "Daytona Beach (FL)",
+    "country": "USA",
+    "iata": "DAB"
+  },
+  {
+    "airport": "Decatur (IL)",
+    "country": "USA",
+    "iata": "DEC"
+  },
+  {
+    "airport": "Deer Lake/Corner Brook",
+    "country": "Canada",
+    "iata": "YDF"
+  },
+  {
+    "airport": "Denver (CO) - Denver International Airport",
+    "country": "USA",
+    "iata": "DEN"
+  },
+  {
+    "airport": "Des Moines (IA) - Des Moines International Airport",
+    "country": "USA",
+    "iata": "DSM"
+  },
+  {
+    "airport": "Detroit (MI) , Coleman A. Young Municipal",
+    "country": "USA",
+    "iata": "DET"
+  },
+  {
+    "airport": "Detroit (MI) , Wayne County Airport",
+    "country": "USA",
+    "iata": "DTW"
+  },
+  {
+    "airport": "Detroit (MI) , Metropolitan Area",
+    "country": "USA",
+    "iata": "DTT"
+  },
+  {
+    "airport": "Devils Lake (ND)",
+    "country": "USA",
+    "iata": "DVL"
+  },
+  {
+    "airport": "Dillingham (AK)",
+    "country": "USA",
+    "iata": "DLG"
+  },
+  {
+    "airport": "Dothan (AL)",
+    "country": "USA",
+    "iata": "DHN"
+  },
+  {
+    "airport": "Dubois (PA)",
+    "country": "USA",
+    "iata": "DUJ"
+  },
+  {
+    "airport": "Dubuque IA",
+    "country": "USA",
+    "iata": "DBQ"
+  },
+  {
+    "airport": "Duluth (MN) /Superior (WI)",
+    "country": "USA",
+    "iata": "DLH"
+  },
+  {
+    "airport": "Durango (CO)",
+    "country": "USA",
+    "iata": "DRO"
+  },
+  {
+    "airport": "Dutch Harbor (AK)",
+    "country": "USA",
+    "iata": "DUT"
+  },
+  {
+    "airport": "Easter Island",
+    "country": "Chile",
+    "iata": "IPC"
+  },
+  {
+    "airport": "Eau Clarie (WI)",
+    "country": "USA",
+    "iata": "EAU"
+  },
+  {
+    "airport": "Edmonton",
+    "country": "Canada",
+    "iata": "YEA"
+  },
+  {
+    "airport": "Edmonton, International",
+    "country": "Canada",
+    "iata": "YEG"
+  },
+  {
+    "airport": "Edmonton, Municipal",
+    "country": "Canada",
+    "iata": "YXD"
+  },
+  {
+    "airport": "Samana - Samaná El Catey International Airport",
+    "country": "Dominican Republic",
+    "iata": "AZS"
+  },
+  {
+    "airport": "Elkhart (IN)",
+    "country": "USA",
+    "iata": "EKI"
+  },
+  {
+    "airport": "Elko (NV)",
+    "country": "USA",
+    "iata": "EKO"
+  },
+  {
+    "airport": "Elmira (NY)",
+    "country": "USA",
+    "iata": "ELM"
+  },
+  {
+    "airport": "El Paso (TX) - El Paso International Airport",
+    "country": "USA",
+    "iata": "ELP"
+  },
+  {
+    "airport": "Ely (NV)",
+    "country": "USA",
+    "iata": "ELY"
+  },
+  {
+    "airport": "Erie (PA)",
+    "country": "USA",
+    "iata": "ERI"
+  },
+  {
+    "airport": "Escanaba (MI)",
+    "country": "USA",
+    "iata": "ESC"
+  },
+  {
+    "airport": "Eugene (OR)",
+    "country": "USA",
+    "iata": "EUG"
+  },
+  {
+    "airport": "Eureka (CA)",
+    "country": "USA",
+    "iata": "ACV"
+  },
+  {
+    "airport": "Evansville (IN)",
+    "country": "USA",
+    "iata": "EVV"
+  },
+  {
+    "airport": "Fairbanks (AK)",
+    "country": "USA",
+    "iata": "FAI"
+  },
+  {
+    "airport": "Fargo (ND) (MN)",
+    "country": "USA",
+    "iata": "FAR"
+  },
+  {
+    "airport": "Farmington (NM)",
+    "country": "USA",
+    "iata": "FMN"
+  },
+  {
+    "airport": "Fayetteville (AR)",
+    "country": "USA",
+    "iata": "FYV"
+  },
+  {
+    "airport": "Fayetteville/Ft. Bragg (NC)",
+    "country": "USA",
+    "iata": "FAY"
+  },
+  {
+    "airport": "Flagstaff (AZ)",
+    "country": "USA",
+    "iata": "FLG"
+  },
+  {
+    "airport": "Flin Flon",
+    "country": "Canada",
+    "iata": "YFO"
+  },
+  {
+    "airport": "Flint (MI)",
+    "country": "USA",
+    "iata": "FNT"
+  },
+  {
+    "airport": "Florence (SC)",
+    "country": "USA",
+    "iata": "FLO"
+  },
+  {
+    "airport": "Florianopolis",
+    "country": "Brazil",
+    "iata": "FLN"
+  },
+  {
+    "airport": "Fort Albert",
+    "country": "Canada",
+    "iata": "YFA"
+  },
+  {
+    "airport": "Fortaleza - Pinto Martins Airport",
+    "country": "Brazil",
+    "iata": "FOR"
+  },
+  {
+    "airport": "Fort Dodge IA",
+    "country": "USA",
+    "iata": "FOD"
+  },
+  {
+    "airport": "Fort Huachuca/Sierra Vista (AZ)",
+    "country": "USA",
+    "iata": "FHU"
+  },
+  {
+    "airport": "Fort Lauderdale/Hollywood (FL)",
+    "country": "USA",
+    "iata": "FLL"
+  },
+  {
+    "airport": "Fort McMurray",
+    "country": "Canada",
+    "iata": "YMM"
+  },
+  {
+    "airport": "Fort Myers, Metropolitan Area (FL)",
+    "country": "USA",
+    "iata": "FMY"
+  },
+  {
+    "airport": "Fort Myers, Southwest Florida Reg (FL)",
+    "country": "USA",
+    "iata": "RSW"
+  },
+  {
+    "airport": "Fort Riley (KS) - Marshall AAF",
+    "country": "USA",
+    "iata": "FRI"
+  },
+  {
+    "airport": "Fort Smith",
+    "country": "Canada",
+    "iata": "YSM"
+  },
+  {
+    "airport": "Fort Smith (AR)",
+    "country": "USA",
+    "iata": "FSM"
+  },
+  {
+    "airport": "Fort St. John",
+    "country": "Canada",
+    "iata": "YXJ"
+  },
+  {
+    "airport": "Fort Walton Beach (FL)",
+    "country": "USA",
+    "iata": "VPS"
+  },
+  {
+    "airport": "Fort Wayne (IN)",
+    "country": "USA",
+    "iata": "FWA"
+  },
+  {
+    "airport": "Franklin/Oil City (PA)",
+    "country": "USA",
+    "iata": "FKL"
+  },
+  {
+    "airport": "Fredericton",
+    "country": "Canada",
+    "iata": "YFC"
+  },
+  {
+    "airport": "Freeport - Grand Bahama International Airport",
+    "country": "Bahamas",
+    "iata": "FPO"
+  },
+  {
+    "airport": "Fresno (CA)",
+    "country": "USA",
+    "iata": "FAT"
+  },
+  {
+    "airport": "Gadsden (AL)",
+    "country": "USA",
+    "iata": "GAD"
+  },
+  {
+    "airport": "Gainesville (FL)",
+    "country": "USA",
+    "iata": "GNV"
+  },
+  {
+    "airport": "Gander",
+    "country": "Canada",
+    "iata": "YQX"
+  },
+  {
+    "airport": "Georgetown - Cheddi Jagan International Airport",
+    "country": "Guyana",
+    "iata": "GEO"
+  },
+  {
+    "airport": "Gilette (WY)",
+    "country": "USA",
+    "iata": "GCC"
+  },
+  {
+    "airport": "Gillam",
+    "country": "Canada",
+    "iata": "YGX"
+  },
+  {
+    "airport": "Glasgow (MT)",
+    "country": "USA",
+    "iata": "GGW"
+  },
+  {
+    "airport": "Glendive (MT)",
+    "country": "USA",
+    "iata": "GDV"
+  },
+  {
+    "airport": "Goiania, Santa Genoveva Airport",
+    "country": "Brazil",
+    "iata": "GYN"
+  },
+  {
+    "airport": "Goose Bay",
+    "country": "Canada",
+    "iata": "YYR"
+  },
+  {
+    "airport": "Govenors Harbour",
+    "country": "Bahamas",
+    "iata": "GHB"
+  },
+  {
+    "airport": "Grand Canyon (AZ)",
+    "country": "USA",
+    "iata": "GCN"
+  },
+  {
+    "airport": "Grand Forks (ND)",
+    "country": "USA",
+    "iata": "GFK"
+  },
+  {
+    "airport": "Grand Junction (CO)",
+    "country": "USA",
+    "iata": "GJT"
+  },
+  {
+    "airport": "Grand Rapids (MI)",
+    "country": "USA",
+    "iata": "GRR"
+  },
+  {
+    "airport": "Grand Rapids (MN)",
+    "country": "USA",
+    "iata": "GPZ"
+  },
+  {
+    "airport": "Great Falls (MT)",
+    "country": "USA",
+    "iata": "GTF"
+  },
+  {
+    "airport": "Green Bay (WI)",
+    "country": "USA",
+    "iata": "GRB"
+  },
+  {
+    "airport": "Greenbrier/Lewisburg (WV)",
+    "country": "USA",
+    "iata": "LWB"
+  },
+  {
+    "airport": "Greensboro/Winston Salem (NC)",
+    "country": "USA",
+    "iata": "GSO"
+  },
+  {
+    "airport": "Greenville (MS)",
+    "country": "USA",
+    "iata": "GLH"
+  },
+  {
+    "airport": "Greenville (NC)",
+    "country": "USA",
+    "iata": "PGV"
+  },
+  {
+    "airport": "Greenville/Spartanburg (SC)",
+    "country": "USA",
+    "iata": "GSP"
+  },
+  {
+    "airport": "Grenada - Point Salines Airport also Maurice Bishop",
+    "country": "Grenada",
+    "iata": "GND"
+  },
+  {
+    "airport": "Groton/New London (CT)",
+    "country": "USA",
+    "iata": "GON"
+  },
+  {
+    "airport": "Guadalajara",
+    "country": "Mexico",
+    "iata": "GDL"
+  },
+  {
+    "airport": "Sao Paulo - Guarulhos International",
+    "country": "Brazil",
+    "iata": "GRU"
+  },
+  {
+    "airport": "Guatemala City - La Aurora International Airport",
+    "country": "Guatemala",
+    "iata": "GUA"
+  },
+  {
+    "airport": "Guayaquil - Simon Bolivar",
+    "country": "Ecuador",
+    "iata": "GYE"
+  },
+  {
+    "airport": "Gulfport/Biloxi (MS)",
+    "country": "USA",
+    "iata": "GPT"
+  },
+  {
+    "airport": "Gunnison/Crested Butte (CO)",
+    "country": "USA",
+    "iata": "GUC"
+  },
+  {
+    "airport": "Haines (AK)",
+    "country": "USA",
+    "iata": "HNS"
+  },
+  {
+    "airport": "Halifax International",
+    "country": "Canada",
+    "iata": "YHZ"
+  },
+  {
+    "airport": "Hall Beach",
+    "country": "Canada",
+    "iata": "YUX"
+  },
+  {
+    "airport": "Hamilton",
+    "country": "Canada",
+    "iata": "YHM"
+  },
+  {
+    "airport": "Hancock (MI)",
+    "country": "USA",
+    "iata": "CMX"
+  },
+  {
+    "airport": "Harlingen/South Padre Island (TX)",
+    "country": "USA",
+    "iata": "HRL"
+  },
+  {
+    "airport": "Harrington Harbour, PQ",
+    "country": "Canada",
+    "iata": "YHR"
+  },
+  {
+    "airport": "Harrisburg (PA) - Harrisburg Skyport",
+    "country": "USA",
+    "iata": "HAR"
+  },
+  {
+    "airport": "Harrisburg (PA) - Harrisburg International",
+    "country": "USA",
+    "iata": "MDT"
+  },
+  {
+    "airport": "Hartford (CT) /Springfield (MA)",
+    "country": "USA",
+    "iata": "BDL"
+  },
+  {
+    "airport": "Havana - José Martí International",
+    "country": "Cuba",
+    "iata": "HAV"
+  },
+  {
+    "airport": "Havre (MT)",
+    "country": "USA",
+    "iata": "HVR"
+  },
+  {
+    "airport": "Helena (MT)",
+    "country": "USA",
+    "iata": "HLN"
+  },
+  {
+    "airport": "Hermosillo - Gen. Pesqueira Garcia",
+    "country": "Mexico",
+    "iata": "HMO"
+  },
+  {
+    "airport": "Hibbing (MN)",
+    "country": "USA",
+    "iata": "HIB"
+  },
+  {
+    "airport": "Hickory (NC)",
+    "country": "USA",
+    "iata": "HKY"
+  },
+  {
+    "airport": "Hilo (HI)",
+    "country": "USA",
+    "iata": "ITO"
+  },
+  {
+    "airport": "Hilton Head Island (SC)",
+    "country": "USA",
+    "iata": "HHH"
+  },
+  {
+    "airport": "Holguin",
+    "country": "Cuba",
+    "iata": "HOG"
+  },
+  {
+    "airport": "Homer (AK)",
+    "country": "USA",
+    "iata": "HOM"
+  },
+  {
+    "airport": "Honolulu (HI) - Honolulu International Airport",
+    "country": "USA",
+    "iata": "HNL"
+  },
+  {
+    "airport": "Hoonah (AK)",
+    "country": "USA",
+    "iata": "HNH"
+  },
+  {
+    "airport": "Houston (TX) , Hobby",
+    "country": "USA",
+    "iata": "HOU"
+  },
+  {
+    "airport": "Houston, TX - George Bush Intercontinental Airport",
+    "country": "USA",
+    "iata": "IAH"
+  },
+  {
+    "airport": "Huatulco",
+    "country": "Mexico",
+    "iata": "HUX"
+  },
+  {
+    "airport": "Huntington (WV)",
+    "country": "USA",
+    "iata": "HTS"
+  },
+  {
+    "airport": "Huntsville (AL)",
+    "country": "USA",
+    "iata": "HSV"
+  },
+  {
+    "airport": "Huron (SD)",
+    "country": "USA",
+    "iata": "HON"
+  },
+  {
+    "airport": "Hyannis (MA)",
+    "country": "USA",
+    "iata": "HYA"
+  },
+  {
+    "airport": "Hydaburg (AK)",
+    "country": "USA",
+    "iata": "HYG"
+  },
+  {
+    "airport": "Idaho Falls (ID)",
+    "country": "USA",
+    "iata": "IDA"
+  },
+  {
+    "airport": "Iguazu, Cataratas",
+    "country": "Argentina",
+    "iata": "IGR"
+  },
+  {
+    "airport": "Iliamna (AK)",
+    "country": "USA",
+    "iata": "ILI"
+  },
+  {
+    "airport": "Imperial (CA)",
+    "country": "USA",
+    "iata": "IPL"
+  },
+  {
+    "airport": "Indianapolis (IN) International",
+    "country": "USA",
+    "iata": "IND"
+  },
+  {
+    "airport": "International Falls (MN)",
+    "country": "USA",
+    "iata": "INL"
+  },
+  {
+    "airport": "Inuvik",
+    "country": "Canada",
+    "iata": "YEV"
+  },
+  {
+    "airport": "Inykern (CA)",
+    "country": "USA",
+    "iata": "IYK"
+  },
+  {
+    "airport": "Iqaluit (Frobisher Bay)",
+    "country": "Canada",
+    "iata": "YFB"
+  },
+  {
+    "airport": "Iquitos",
+    "country": "Peru",
+    "iata": "IQT"
+  },
+  {
+    "airport": "Ithaca/Cortland (NY)",
+    "country": "USA",
+    "iata": "ITH"
+  },
+  {
+    "airport": "Ixtapa/Zihuatenejo",
+    "country": "Mexico",
+    "iata": "ZIH"
+  },
+  {
+    "airport": "Jackson Hole (WY)",
+    "country": "USA",
+    "iata": "JAC"
+  },
+  {
+    "airport": "Jackson (MI) - Reynolds Municipal",
+    "country": "USA",
+    "iata": "JXN"
+  },
+  {
+    "airport": "Jackson,  MN",
+    "country": "USA",
+    "iata": "MJQ"
+  },
+  {
+    "airport": "Jackson (MS) - Jackson Internationall",
+    "country": "USA",
+    "iata": "JAN"
+  },
+  {
+    "airport": "Jackson (MS) - Hawkins Field",
+    "country": "USA",
+    "iata": "HKS"
+  },
+  {
+    "airport": "Jackson (TN) - Mckellar",
+    "country": "USA",
+    "iata": "MKL"
+  },
+  {
+    "airport": "Jacksonville (AR)  Little Rock AFB",
+    "country": "USA",
+    "iata": "LRF"
+  },
+  {
+    "airport": "Jacksonville (FL) - Cecil Field NAS",
+    "country": "USA",
+    "iata": "NZC"
+  },
+  {
+    "airport": "Jacksonville (FL) Jacksonville NAS",
+    "country": "USA",
+    "iata": "NIP"
+  },
+  {
+    "airport": "Jacksonville (FL) - International",
+    "country": "USA",
+    "iata": "JAX"
+  },
+  {
+    "airport": "Jacksonville (FL) - Craig Municipal",
+    "country": "USA",
+    "iata": "CRG"
+  },
+  {
+    "airport": "Jacksonville (IL) - Municipal Airport",
+    "country": "USA",
+    "iata": "IJX"
+  },
+  {
+    "airport": "Jacksonville (NC)",
+    "country": "USA",
+    "iata": "OAJ"
+  },
+  {
+    "airport": "Jacksonville (TX)",
+    "country": "USA",
+    "iata": "JKV"
+  },
+  {
+    "airport": "Jacmel",
+    "country": "Haiti",
+    "iata": "JAK"
+  },
+  {
+    "airport": "Jacobina",
+    "country": "Brazil",
+    "iata": "JCM"
+  },
+  {
+    "airport": "Jalapa",
+    "country": "Mexico",
+    "iata": "JAL"
+  },
+  {
+    "airport": "Jales",
+    "country": "Brazil",
+    "iata": "JLS"
+  },
+  {
+    "airport": "Jamestown (ND)",
+    "country": "USA",
+    "iata": "JMS"
+  },
+  {
+    "airport": "Jamestown (NY)",
+    "country": "USA",
+    "iata": "JHW"
+  },
+  {
+    "airport": "Janesville (WI) - Rock County",
+    "country": "USA",
+    "iata": "JVL"
+  },
+  {
+    "airport": "Januaria",
+    "country": "Brazil",
+    "iata": "JNA"
+  },
+  {
+    "airport": "Jaque",
+    "country": "Panama",
+    "iata": "JQE"
+  },
+  {
+    "airport": "Jatai",
+    "country": "Brazil",
+    "iata": "JTI"
+  },
+  {
+    "airport": "Jauja",
+    "country": "Peru",
+    "iata": "JAU"
+  },
+  {
+    "airport": "Jefferson City (MO) - Jefferson Memorial",
+    "country": "USA",
+    "iata": "JEF"
+  },
+  {
+    "airport": "Jeremie - Jeremie Airport",
+    "country": "Haiti",
+    "iata": "JEE"
+  },
+  {
+    "airport": "Jipijapa",
+    "country": "Ecuador",
+    "iata": "JIP"
+  },
+  {
+    "airport": "Joacaba",
+    "country": "Brazil",
+    "iata": "JCB"
+  },
+  {
+    "airport": "Joao Pessoa - Castro Pinto Airport",
+    "country": "Brazil",
+    "iata": "JPA"
+  },
+  {
+    "airport": "Johnson City (NY) - Binghamton/Endicott/Johnson",
+    "country": "USA",
+    "iata": "BGM"
+  },
+  {
+    "airport": "Johnston Island",
+    "country": "USA",
+    "iata": "JON"
+  },
+  {
+    "airport": "Johnstown (PA)",
+    "country": "USA",
+    "iata": "JST"
+  },
+  {
+    "airport": "Joinville - Cubatao Airport",
+    "country": "Brazil",
+    "iata": "JOI"
+  },
+  {
+    "airport": "Jonesboro (AR)  Jonesboro Airport",
+    "country": "USA",
+    "iata": "JBR"
+  },
+  {
+    "airport": "Joplin (MO)",
+    "country": "USA",
+    "iata": "JLN"
+  },
+  {
+    "airport": "Jose De San Martin",
+    "country": "Argentina",
+    "iata": "JSM"
+  },
+  {
+    "airport": "Juanjui",
+    "country": "Peru",
+    "iata": "JJI"
+  },
+  {
+    "airport": "Juiz De Fora - Francisco De Assis Airport",
+    "country": "Brazil",
+    "iata": "JDF"
+  },
+  {
+    "airport": "Jujuy - El Cadillal Airport",
+    "country": "Argentina",
+    "iata": "JUJ"
+  },
+  {
+    "airport": "Juliaca",
+    "country": "Peru",
+    "iata": "JUL"
+  },
+  {
+    "airport": "Juneau (AK) - Juneau International Airport",
+    "country": "USA",
+    "iata": "JNU"
+  },
+  {
+    "airport": "Junin",
+    "country": "Argentina",
+    "iata": "JNI"
+  },
+  {
+    "airport": "Juticalpa",
+    "country": "Honduras",
+    "iata": "JUT"
+  },
+  {
+    "airport": "Kahului (HI)",
+    "country": "USA",
+    "iata": "OGG"
+  },
+  {
+    "airport": "Kalamazoo/Battle Creek (MI)",
+    "country": "USA",
+    "iata": "AZO"
+  },
+  {
+    "airport": "Kalispell (MT)",
+    "country": "USA",
+    "iata": "FCA"
+  },
+  {
+    "airport": "Kamloops, BC",
+    "country": "Canada",
+    "iata": "YKA"
+  },
+  {
+    "airport": "Kamuela (HI)",
+    "country": "USA",
+    "iata": "MUE"
+  },
+  {
+    "airport": "Kansas City (MO) - Kansas City International Airport",
+    "country": "USA",
+    "iata": "MCI"
+  },
+  {
+    "airport": "Kapalua West (HI)",
+    "country": "USA",
+    "iata": "JHM"
+  },
+  {
+    "airport": "Kaschechawan, PQ",
+    "country": "Canada",
+    "iata": "ZKE"
+  },
+  {
+    "airport": "Kaunakakai (HI)",
+    "country": "USA",
+    "iata": "MKK"
+  },
+  {
+    "airport": "Kelowna, BC",
+    "country": "Canada",
+    "iata": "YLW"
+  },
+  {
+    "airport": "Kenai (AK)",
+    "country": "USA",
+    "iata": "ENA"
+  },
+  {
+    "airport": "Ketchikan (AK)",
+    "country": "USA",
+    "iata": "KTN"
+  },
+  {
+    "airport": "Key West (FL)",
+    "country": "USA",
+    "iata": "EYW"
+  },
+  {
+    "airport": "Killeem (TX)",
+    "country": "USA",
+    "iata": "ILE"
+  },
+  {
+    "airport": "King Salomon (AK)",
+    "country": "USA",
+    "iata": "AKN"
+  },
+  {
+    "airport": "Kingston - Norman Manley",
+    "country": "Jamaica",
+    "iata": "KIN"
+  },
+  {
+    "airport": "Kingston (NC)",
+    "country": "USA",
+    "iata": "ISO"
+  },
+  {
+    "airport": "Kingstown - E. T. Joshua Airport",
+    "country": "Saint Vincent and the Grenadines",
+    "iata": "SVD"
+  },
+  {
+    "airport": "Klamath Fall (OR)",
+    "country": "USA",
+    "iata": "LMT"
+  },
+  {
+    "airport": "Klawock (AK)",
+    "country": "USA",
+    "iata": "KLW"
+  },
+  {
+    "airport": "Knoxville (TN)",
+    "country": "USA",
+    "iata": "TYS"
+  },
+  {
+    "airport": "Kodiak (AK)",
+    "country": "USA",
+    "iata": "ADQ"
+  },
+  {
+    "airport": "Kona (HI)",
+    "country": "USA",
+    "iata": "KOA"
+  },
+  {
+    "airport": "Kotzbue (AK)",
+    "country": "USA",
+    "iata": "OTZ"
+  },
+  {
+    "airport": "Kuujjuaq (FortChimo)",
+    "country": "Canada",
+    "iata": "YVP"
+  },
+  {
+    "airport": "Kuujjuarapik",
+    "country": "Canada",
+    "iata": "YGW"
+  },
+  {
+    "airport": "Labouchere Bay (AK)",
+    "country": "USA",
+    "iata": "WLB"
+  },
+  {
+    "airport": "Lac Brochet, MB",
+    "country": "Canada",
+    "iata": "XLB"
+  },
+  {
+    "airport": "La Crosse (WI)",
+    "country": "USA",
+    "iata": "LSE"
+  },
+  {
+    "airport": "Lafayette (IN)",
+    "country": "USA",
+    "iata": "LAF"
+  },
+  {
+    "airport": "Lafayette, La",
+    "country": "USA",
+    "iata": "LFT"
+  },
+  {
+    "airport": "La Grande",
+    "country": "Canada",
+    "iata": "YGL"
+  },
+  {
+    "airport": "Lake Charles (LA)",
+    "country": "USA",
+    "iata": "LCH"
+  },
+  {
+    "airport": "Lake Havasu City (AZ)",
+    "country": "USA",
+    "iata": "HII"
+  },
+  {
+    "airport": "Lake Tahoe (CA)",
+    "country": "USA",
+    "iata": "TVL"
+  },
+  {
+    "airport": "Lanai City (HI)",
+    "country": "USA",
+    "iata": "LNY"
+  },
+  {
+    "airport": "Lancaster (PA)",
+    "country": "USA",
+    "iata": "LNS"
+  },
+  {
+    "airport": "Lansing (MI)",
+    "country": "USA",
+    "iata": "LAN"
+  },
+  {
+    "airport": "La Paz - El Alto",
+    "country": "Bolivia",
+    "iata": "LPB"
+  },
+  {
+    "airport": "La Paz - Leon",
+    "country": "Mexico",
+    "iata": "LAP"
+  },
+  {
+    "airport": "Laramie (WY)",
+    "country": "USA",
+    "iata": "LAR"
+  },
+  {
+    "airport": "Laredo (TX)",
+    "country": "USA",
+    "iata": "LRD"
+  },
+  {
+    "airport": "Las Vegas (NV)",
+    "country": "USA",
+    "iata": "LAS"
+  },
+  {
+    "airport": "Latrobe (PA)",
+    "country": "USA",
+    "iata": "LBE"
+  },
+  {
+    "airport": "Laurel/Hattisburg (MS)",
+    "country": "USA",
+    "iata": "PIB"
+  },
+  {
+    "airport": "Lawton (OK)",
+    "country": "USA",
+    "iata": "LAW"
+  },
+  {
+    "airport": "Lazaro Cardenas",
+    "country": "Mexico",
+    "iata": "LZC"
+  },
+  {
+    "airport": "Leaf Rapids",
+    "country": "Canada",
+    "iata": "YLR"
+  },
+  {
+    "airport": "Lebanon (NH)",
+    "country": "USA",
+    "iata": "LEB"
+  },
+  {
+    "airport": "Leon",
+    "country": "Mexico",
+    "iata": "BJX"
+  },
+  {
+    "airport": "Lewiston (ID)",
+    "country": "USA",
+    "iata": "LWS"
+  },
+  {
+    "airport": "Lewistown (MT)",
+    "country": "USA",
+    "iata": "LWT"
+  },
+  {
+    "airport": "Lexington (KY)",
+    "country": "USA",
+    "iata": "LEX"
+  },
+  {
+    "airport": "Lihue (HI)",
+    "country": "USA",
+    "iata": "LIH"
+  },
+  {
+    "airport": "Lima - J Chavez International",
+    "country": "Peru",
+    "iata": "LIM"
+  },
+  {
+    "airport": "Lincoln (NE)",
+    "country": "USA",
+    "iata": "LNK"
+  },
+  {
+    "airport": "Little Rock (AR)",
+    "country": "USA",
+    "iata": "LIT"
+  },
+  {
+    "airport": "London",
+    "country": "Canada",
+    "iata": "YXU"
+  },
+  {
+    "airport": "Long Beach (CA)",
+    "country": "USA",
+    "iata": "LGB"
+  },
+  {
+    "airport": "Long Island (AK)",
+    "country": "USA",
+    "iata": "LIJ"
+  },
+  {
+    "airport": "Long Island, Islip (NY) - Mac Arthur",
+    "country": "USA",
+    "iata": "ISP"
+  },
+  {
+    "airport": "Longview/Kilgore (TX)",
+    "country": "USA",
+    "iata": "GGG"
+  },
+  {
+    "airport": "Loreto",
+    "country": "Mexico",
+    "iata": "LTO"
+  },
+  {
+    "airport": "Los Angeles (CA) - International",
+    "country": "USA",
+    "iata": "LAX"
+  },
+  {
+    "airport": "Los Mochis",
+    "country": "Mexico",
+    "iata": "LMM"
+  },
+  {
+    "airport": "Louisville (KY)",
+    "country": "USA",
+    "iata": "SDF"
+  },
+  {
+    "airport": "Lubbock (TX)",
+    "country": "USA",
+    "iata": "LBB"
+  },
+  {
+    "airport": "Lynchburg (VA)",
+    "country": "USA",
+    "iata": "LYH"
+  },
+  {
+    "airport": "Lyons (KS) - Rice County Municipal",
+    "country": "USA",
+    "iata": "LYO"
+  },
+  {
+    "airport": "Macapa - Alberto Alcolumbre International Airport",
+    "country": "Brazil",
+    "iata": "MCP"
+  },
+  {
+    "airport": "Maceio - Zumbi dos Palmares International Airport",
+    "country": "Brazil",
+    "iata": "MCZ"
+  },
+  {
+    "airport": "Macon (GA)",
+    "country": "USA",
+    "iata": "MCN"
+  },
+  {
+    "airport": "Madison (WI) - Dane County Regional Airport",
+    "country": "USA",
+    "iata": "MSN"
+  },
+  {
+    "airport": "Managua - Augusto C Sandino",
+    "country": "Nicaragua",
+    "iata": "MGA"
+  },
+  {
+    "airport": "Manaus - Eduardo Gomes International Airport",
+    "country": "Brazil",
+    "iata": "MAO"
+  },
+  {
+    "airport": "Manchester (NH)",
+    "country": "USA",
+    "iata": "MHT"
+  },
+  {
+    "airport": "Manzanillo",
+    "country": "Mexico",
+    "iata": "ZLO"
+  },
+  {
+    "airport": "Mar del Plata",
+    "country": "Argentina",
+    "iata": "MDQ"
+  },
+  {
+    "airport": "Maracaibo - La Chinita International",
+    "country": "Venezuela",
+    "iata": "MAR"
+  },
+  {
+    "airport": "Marathon (FL)",
+    "country": "USA",
+    "iata": "MTH"
+  },
+  {
+    "airport": "Margerita",
+    "country": "Venezuela",
+    "iata": "PMV"
+  },
+  {
+    "airport": "Marquette (MI)",
+    "country": "USA",
+    "iata": "MQT"
+  },
+  {
+    "airport": "Marsh Harbour",
+    "country": "Bahamas",
+    "iata": "MHH"
+  },
+  {
+    "airport": "Martha's Vineyard (MA)",
+    "country": "USA",
+    "iata": "MVY"
+  },
+  {
+    "airport": "Martinsburg (WV)",
+    "country": "USA",
+    "iata": "MRB"
+  },
+  {
+    "airport": "Mason City IA",
+    "country": "USA",
+    "iata": "MCW"
+  },
+  {
+    "airport": "Mattoon (IL)",
+    "country": "USA",
+    "iata": "MTO"
+  },
+  {
+    "airport": "Mazatlan",
+    "country": "Mexico",
+    "iata": "MZT"
+  },
+  {
+    "airport": "McAllen (TX)",
+    "country": "USA",
+    "iata": "MFE"
+  },
+  {
+    "airport": "Medellin - José María Córdova International",
+    "country": "Colombia",
+    "iata": "MDE"
+  },
+  {
+    "airport": "Medford (OR)",
+    "country": "USA",
+    "iata": "MFR"
+  },
+  {
+    "airport": "Melbourne (FL)",
+    "country": "USA",
+    "iata": "MLB"
+  },
+  {
+    "airport": "Melville Hall",
+    "country": "Dominica",
+    "iata": "DOM"
+  },
+  {
+    "airport": "Memphis (TN)",
+    "country": "USA",
+    "iata": "MEM"
+  },
+  {
+    "airport": "Mendoza",
+    "country": "Argentina",
+    "iata": "MDZ"
+  },
+  {
+    "airport": "Merced (CA)",
+    "country": "USA",
+    "iata": "MCE"
+  },
+  {
+    "airport": "Merida",
+    "country": "Mexico",
+    "iata": "MID"
+  },
+  {
+    "airport": "Meridian (MS)",
+    "country": "USA",
+    "iata": "MEI"
+  },
+  {
+    "airport": "Metlakatla (AK)",
+    "country": "USA",
+    "iata": "MTM"
+  },
+  {
+    "airport": "Mexicali",
+    "country": "Mexico",
+    "iata": "MXL"
+  },
+  {
+    "airport": "Mexico City - Mexico City International Airport",
+    "country": "Mexico",
+    "iata": "MEX"
+  },
+  {
+    "airport": "Mexico City - Atizapan",
+    "country": "Mexico",
+    "iata": "AZP"
+  },
+  {
+    "airport": "Mexico City - Santa Lucia",
+    "country": "Mexico",
+    "iata": "NLU"
+  },
+  {
+    "airport": "Miami (FL)",
+    "country": "USA",
+    "iata": "MIA"
+  },
+  {
+    "airport": "Midland/Odessa (TX)",
+    "country": "USA",
+    "iata": "MAF"
+  },
+  {
+    "airport": "Miles City (MT)",
+    "country": "USA",
+    "iata": "MLS"
+  },
+  {
+    "airport": "Milwaukee (WI)",
+    "country": "USA",
+    "iata": "MKE"
+  },
+  {
+    "airport": "Minatitlan",
+    "country": "Mexico",
+    "iata": "MTT"
+  },
+  {
+    "airport": "Minneapolis - St. Paul International Airport (MN)",
+    "country": "USA",
+    "iata": "MSP"
+  },
+  {
+    "airport": "Minot (ND)",
+    "country": "USA",
+    "iata": "MOT"
+  },
+  {
+    "airport": "Missula (MT)",
+    "country": "USA",
+    "iata": "MSO"
+  },
+  {
+    "airport": "Mitchell (SD)",
+    "country": "USA",
+    "iata": "MHE"
+  },
+  {
+    "airport": "Mobile (AL) - Pascagoula (MS)",
+    "country": "USA",
+    "iata": "MOB"
+  },
+  {
+    "airport": "Modesto (CA)",
+    "country": "USA",
+    "iata": "MOD"
+  },
+  {
+    "airport": "Moline/Quad Cities (IL)",
+    "country": "USA",
+    "iata": "MLI"
+  },
+  {
+    "airport": "Moncton",
+    "country": "Canada",
+    "iata": "YQM"
+  },
+  {
+    "airport": "Monroe (LA)",
+    "country": "USA",
+    "iata": "MLU"
+  },
+  {
+    "airport": "Montego Bay - Sangster International",
+    "country": "Jamaica",
+    "iata": "MBJ"
+  },
+  {
+    "airport": "Montenegro",
+    "country": "Brazil",
+    "iata": "QGF"
+  },
+  {
+    "airport": "Monterey (CA)",
+    "country": "USA",
+    "iata": "MRY"
+  },
+  {
+    "airport": "Monterrey - Gen. Mariano Escobedo",
+    "country": "Mexico",
+    "iata": "MTY"
+  },
+  {
+    "airport": "Monterrey - Aeropuerto Del Norte",
+    "country": "Mexico",
+    "iata": "NTR"
+  },
+  {
+    "airport": "Montevideo - Carrasco International Airport",
+    "country": "Uruguay",
+    "iata": "MVD"
+  },
+  {
+    "airport": "Montgomery (AL) - Montgomery Regional Airport",
+    "country": "USA",
+    "iata": "MGM"
+  },
+  {
+    "airport": "Montreal",
+    "country": "Canada",
+    "iata": "YMQ"
+  },
+  {
+    "airport": "Montreal - Dorval (Montréal-Trudeau)",
+    "country": "Canada",
+    "iata": "YUL"
+  },
+  {
+    "airport": "Montreal - Mirabel",
+    "country": "Canada",
+    "iata": "YMX"
+  },
+  {
+    "airport": "Montrose/Tellruide (CO)",
+    "country": "USA",
+    "iata": "MTJ"
+  },
+  {
+    "airport": "Morelia",
+    "country": "Mexico",
+    "iata": "MLM"
+  },
+  {
+    "airport": "Morgantown (WV)",
+    "country": "USA",
+    "iata": "MGW"
+  },
+  {
+    "airport": "Moses Lake (WA)",
+    "country": "USA",
+    "iata": "MWH"
+  },
+  {
+    "airport": "Mt. McKinley (AK)",
+    "country": "USA",
+    "iata": "MCL"
+  },
+  {
+    "airport": "Muscle Shoals (AL)",
+    "country": "USA",
+    "iata": "MSL"
+  },
+  {
+    "airport": "Muskegon (MI)",
+    "country": "USA",
+    "iata": "MKG"
+  },
+  {
+    "airport": "Myrtle Beach (SC) - Myrtle Beach AFB",
+    "country": "USA",
+    "iata": "MYR"
+  },
+  {
+    "airport": "Myrtle Beach (SC) - Grand Strand Airport",
+    "country": "USA",
+    "iata": "CRE"
+  },
+  {
+    "airport": "Nanisivik",
+    "country": "Canada",
+    "iata": "YSR"
+  },
+  {
+    "airport": "Nantucket (MA)",
+    "country": "USA",
+    "iata": "ACK"
+  },
+  {
+    "airport": "Naples (FL)",
+    "country": "USA",
+    "iata": "APF"
+  },
+  {
+    "airport": "Nashville (TN)",
+    "country": "USA",
+    "iata": "BNA"
+  },
+  {
+    "airport": "Nassau",
+    "country": "Bahamas",
+    "iata": "NAS2"
+  },
+  {
+    "airport": "Natal - Augusto Severo International Airport",
+    "country": "Brazil",
+    "iata": "NAT"
+  },
+  {
+    "airport": "Nevis",
+    "country": "St. Kitts and Nevis",
+    "iata": "NEV"
+  },
+  {
+    "airport": "New Bern (NC)",
+    "country": "USA",
+    "iata": "EWN"
+  },
+  {
+    "airport": "New Haven (CT)",
+    "country": "USA",
+    "iata": "HVN"
+  },
+  {
+    "airport": "New Orleans, La",
+    "country": "USA",
+    "iata": "MSY"
+  },
+  {
+    "airport": "New York - John F. Kennedy (NY)",
+    "country": "USA",
+    "iata": "JFK"
+  },
+  {
+    "airport": "New York - LaGuardia (NY)",
+    "country": "USA",
+    "iata": "LGA"
+  },
+  {
+    "airport": "New York - Newark (NJ)",
+    "country": "USA",
+    "iata": "EWR"
+  },
+  {
+    "airport": "New York (NY)",
+    "country": "USA",
+    "iata": "NYC"
+  },
+  {
+    "airport": "Newburgh (NY)",
+    "country": "USA",
+    "iata": "SWF"
+  },
+  {
+    "airport": "Newport News/Williamsburg (VA)",
+    "country": "USA",
+    "iata": "PHF"
+  },
+  {
+    "airport": "Niagara Falls International",
+    "country": "USA",
+    "iata": "IAG"
+  },
+  {
+    "airport": "Nome (AK)",
+    "country": "USA",
+    "iata": "OME"
+  },
+  {
+    "airport": "Norfolk/Virginia Beach (VA)",
+    "country": "USA",
+    "iata": "ORF"
+  },
+  {
+    "airport": "Norman Wells",
+    "country": "Canada",
+    "iata": "YVQ"
+  },
+  {
+    "airport": "North Bend (OR)",
+    "country": "USA",
+    "iata": "OTH"
+  },
+  {
+    "airport": "North Eleuthera",
+    "country": "Bahamas",
+    "iata": "ELH"
+  },
+  {
+    "airport": "Nuevo Laredo",
+    "country": "Mexico",
+    "iata": "NLD"
+  },
+  {
+    "airport": "Oakland (CA)",
+    "country": "USA",
+    "iata": "OAK"
+  },
+  {
+    "airport": "Oaxaca - Xoxocotlan",
+    "country": "Mexico",
+    "iata": "OAX"
+  },
+  {
+    "airport": "Oklahoma City (OK) - Will Rogers World",
+    "country": "USA",
+    "iata": "OKC"
+  },
+  {
+    "airport": "Omaha (NE)",
+    "country": "USA",
+    "iata": "OMA"
+  },
+  {
+    "airport": "Ontario (CA)",
+    "country": "USA",
+    "iata": "ONT"
+  },
+  {
+    "airport": "Orange County (Santa Ana) (CA)",
+    "country": "USA",
+    "iata": "SNA"
+  },
+  {
+    "airport": "Orlando Metropolitan Area (FL)",
+    "country": "USA",
+    "iata": "ORL"
+  },
+  {
+    "airport": "Orlando - International Airport (FL)",
+    "country": "USA",
+    "iata": "MCO"
+  },
+  {
+    "airport": "Oshkosh (WI)",
+    "country": "USA",
+    "iata": "OSH"
+  },
+  {
+    "airport": "Ottawa - Hull",
+    "country": "Canada",
+    "iata": "YOW"
+  },
+  {
+    "airport": "Owensboro (KY)",
+    "country": "USA",
+    "iata": "OWB"
+  },
+  {
+    "airport": "Oxnard (CA)",
+    "country": "USA",
+    "iata": "OXR"
+  },
+  {
+    "airport": "Paducah (KY)",
+    "country": "USA",
+    "iata": "PAH"
+  },
+  {
+    "airport": "Page/Lake Powell (AZ)",
+    "country": "USA",
+    "iata": "PGA"
+  },
+  {
+    "airport": "Pakersburg (WV) /Marietta (OH)",
+    "country": "USA",
+    "iata": "PKB"
+  },
+  {
+    "airport": "Palmas",
+    "country": "Brazil",
+    "iata": "PMW"
+  },
+  {
+    "airport": "Palmdale/Lancaster (CA)",
+    "country": "USA",
+    "iata": "PMD"
+  },
+  {
+    "airport": "Palm Springs (CA)",
+    "country": "USA",
+    "iata": "PSP"
+  },
+  {
+    "airport": "Panama City - Tocumen International",
+    "country": "Panama",
+    "iata": "PTY"
+  },
+  {
+    "airport": "Panama City (FL)",
+    "country": "USA",
+    "iata": "PFN"
+  },
+  {
+    "airport": "Paramaribo - Zanderij International",
+    "country": "Suriname",
+    "iata": "PBM"
+  },
+  {
+    "airport": "Pasco (WA)",
+    "country": "USA",
+    "iata": "PSC"
+  },
+  {
+    "airport": "Pellston (MI)",
+    "country": "USA",
+    "iata": "PLN"
+  },
+  {
+    "airport": "Pendelton (OR)",
+    "country": "USA",
+    "iata": "PDT"
+  },
+  {
+    "airport": "Pensacola (FL)",
+    "country": "USA",
+    "iata": "PNS"
+  },
+  {
+    "airport": "Peoria/Bloomington (IL)",
+    "country": "USA",
+    "iata": "PIA"
+  },
+  {
+    "airport": "Pereira",
+    "country": "Colombia",
+    "iata": "PEI"
+  },
+  {
+    "airport": "Petersburg (AK)",
+    "country": "USA",
+    "iata": "PSG"
+  },
+  {
+    "airport": "Philadelphia (PA) - International",
+    "country": "USA",
+    "iata": "PHL"
+  },
+  {
+    "airport": "Phoenix (AZ) - Sky Harbor International",
+    "country": "USA",
+    "iata": "PHX"
+  },
+  {
+    "airport": "Pierre (SD)",
+    "country": "USA",
+    "iata": "PIR"
+  },
+  {
+    "airport": "Pittsburgh International Airport (PA)",
+    "country": "USA",
+    "iata": "PIT"
+  },
+  {
+    "airport": "Plattsburgh (NY)",
+    "country": "USA",
+    "iata": "PLB"
+  },
+  {
+    "airport": "Pocatello (ID)",
+    "country": "USA",
+    "iata": "PIH"
+  },
+  {
+    "airport": "Port Angeles (WA)",
+    "country": "USA",
+    "iata": "CLM"
+  },
+  {
+    "airport": "Port au Prince",
+    "country": "Haiti",
+    "iata": "PAP"
+  },
+  {
+    "airport": "Portland (ME)",
+    "country": "USA",
+    "iata": "PWM"
+  },
+  {
+    "airport": "Portland International (OR)",
+    "country": "USA",
+    "iata": "PDX"
+  },
+  {
+    "airport": "Port Menier, PQ",
+    "country": "Canada",
+    "iata": "YPN"
+  },
+  {
+    "airport": "Porto Alegre - Salgado Filho International Airport",
+    "country": "Brazil",
+    "iata": "POA"
+  },
+  {
+    "airport": "Port of Spain - Piarco International",
+    "country": "Trinidad and Tobago",
+    "iata": "POS"
+  },
+  {
+    "airport": "Porto Velho",
+    "country": "Brazil",
+    "iata": "PVH"
+  },
+  {
+    "airport": "Poughkeepsie (NY)",
+    "country": "USA",
+    "iata": "POU"
+  },
+  {
+    "airport": "Presque Island (ME)",
+    "country": "USA",
+    "iata": "PQI"
+  },
+  {
+    "airport": "Prince George",
+    "country": "Canada",
+    "iata": "YXS"
+  },
+  {
+    "airport": "Prince Rupert/Digby Island",
+    "country": "Canada",
+    "iata": "YPR"
+  },
+  {
+    "airport": "Providence (RI)",
+    "country": "USA",
+    "iata": "PVD"
+  },
+  {
+    "airport": "Prudhoe Bay (AK)",
+    "country": "USA",
+    "iata": "SCC"
+  },
+  {
+    "airport": "Puebla",
+    "country": "Mexico",
+    "iata": "PBC"
+  },
+  {
+    "airport": "Pueblo (CO)",
+    "country": "USA",
+    "iata": "PUB"
+  },
+  {
+    "airport": "Puerto Escondido",
+    "country": "Mexico",
+    "iata": "PXM"
+  },
+  {
+    "airport": "Puerto Ordaz",
+    "country": "Venezuela",
+    "iata": "PZO"
+  },
+  {
+    "airport": "Puerto Plata",
+    "country": "Dominican Republic",
+    "iata": "POP"
+  },
+  {
+    "airport": "Puerto Vallarta",
+    "country": "Mexico",
+    "iata": "PVR"
+  },
+  {
+    "airport": "Pukatawagan",
+    "country": "Canada",
+    "iata": "XPK"
+  },
+  {
+    "airport": "Pullman (WA)",
+    "country": "USA",
+    "iata": "PUW"
+  },
+  {
+    "airport": "Punta Arenas - Presidente Carlos Ibáñez del Campo",
+    "country": "Chile",
+    "iata": "PUQ"
+  },
+  {
+    "airport": "Punta Cana - Punta Cana International",
+    "country": "Dominican Republic",
+    "iata": "PUJ"
+  },
+  {
+    "airport": "Quebec - Quebec International",
+    "country": "Canada",
+    "iata": "YQB"
+  },
+  {
+    "airport": "Quincy (IL)",
+    "country": "USA",
+    "iata": "UIN"
+  },
+  {
+    "airport": "Quito - Mariscal Sucre International Airport",
+    "country": "Ecuador",
+    "iata": "UIO"
+  },
+  {
+    "airport": "Rainbow Lake, AB",
+    "country": "Canada",
+    "iata": "YOP"
+  },
+  {
+    "airport": "Raleigh/Durham (NC)",
+    "country": "USA",
+    "iata": "RDU"
+  },
+  {
+    "airport": "Rapid City (SD)",
+    "country": "USA",
+    "iata": "RAP"
+  },
+  {
+    "airport": "Reading (PA)",
+    "country": "USA",
+    "iata": "RDG"
+  },
+  {
+    "airport": "Recife - Guararapes-Gilberto Freyre International",
+    "country": "Brazil",
+    "iata": "REC"
+  },
+  {
+    "airport": "Redding (CA)",
+    "country": "USA",
+    "iata": "RDD"
+  },
+  {
+    "airport": "Redmond (OR)",
+    "country": "USA",
+    "iata": "RDM"
+  },
+  {
+    "airport": "Regina",
+    "country": "Canada",
+    "iata": "YQR"
+  },
+  {
+    "airport": "Reno (NV)",
+    "country": "USA",
+    "iata": "RNO"
+  },
+  {
+    "airport": "Resolute Bay",
+    "country": "Canada",
+    "iata": "YRB"
+  },
+  {
+    "airport": "Rhinelander (WI)",
+    "country": "USA",
+    "iata": "RHI"
+  },
+  {
+    "airport": "Richmond (VA)",
+    "country": "USA",
+    "iata": "RIC"
+  },
+  {
+    "airport": "Rio Branco - Plácido de Castro International Airport",
+    "country": "Brazil",
+    "iata": "RBR"
+  },
+  {
+    "airport": "Rio de Janeiro - Galeao",
+    "country": "Brazil",
+    "iata": "GIG"
+  },
+  {
+    "airport": "Rio de Janeiro - Santos Dumont",
+    "country": "Brazil",
+    "iata": "SDU"
+  },
+  {
+    "airport": "Rio de Janeiro",
+    "country": "Brazil",
+    "iata": "RIO"
+  },
+  {
+    "airport": "Roanoke (VA)",
+    "country": "USA",
+    "iata": "ROA"
+  },
+  {
+    "airport": "Roatan",
+    "country": "Honduras",
+    "iata": "RTB"
+  },
+  {
+    "airport": "Rochester (MN)",
+    "country": "USA",
+    "iata": "RST"
+  },
+  {
+    "airport": "Rochester (NY)",
+    "country": "USA",
+    "iata": "ROC"
+  },
+  {
+    "airport": "Rock Sound",
+    "country": "Bahamas",
+    "iata": "RSD"
+  },
+  {
+    "airport": "Rock Springs (WY)",
+    "country": "USA",
+    "iata": "RKS"
+  },
+  {
+    "airport": "Rockford (IL)",
+    "country": "USA",
+    "iata": "RFD"
+  },
+  {
+    "airport": "Rockland (ME)",
+    "country": "USA",
+    "iata": "RKD"
+  },
+  {
+    "airport": "Rocky Mount - Wilson (NC)",
+    "country": "USA",
+    "iata": "RWI"
+  },
+  {
+    "airport": "Rosario",
+    "country": "Argentina",
+    "iata": "ROS"
+  },
+  {
+    "airport": "Sacramento (CA)",
+    "country": "USA",
+    "iata": "SMF"
+  },
+  {
+    "airport": "Saginaw/Bay City/Midland (MI)",
+    "country": "USA",
+    "iata": "MBS"
+  },
+  {
+    "airport": "Saint John",
+    "country": "Canada",
+    "iata": "YSJ"
+  },
+  {
+    "airport": "Salem (OR)",
+    "country": "USA",
+    "iata": "SLE"
+  },
+  {
+    "airport": "Salinas (CA)",
+    "country": "USA",
+    "iata": "SNS"
+  },
+  {
+    "airport": "Salinas",
+    "country": "Ecuador",
+    "iata": "SNC"
+  },
+  {
+    "airport": "Salisbury (MD)",
+    "country": "USA",
+    "iata": "SBY"
+  },
+  {
+    "airport": "Salta, Gen Belgrano",
+    "country": "Argentina",
+    "iata": "SLA"
+  },
+  {
+    "airport": "Salt Lake City (UT)",
+    "country": "USA",
+    "iata": "SLC"
+  },
+  {
+    "airport": "Salvador - Salvador International Airport",
+    "country": "Brazil",
+    "iata": "SSA"
+  },
+  {
+    "airport": "San Andres",
+    "country": "Colombia",
+    "iata": "ADZ"
+  },
+  {
+    "airport": "San Angelo (TX)",
+    "country": "USA",
+    "iata": "SJT"
+  },
+  {
+    "airport": "San Antonio (TX)",
+    "country": "USA",
+    "iata": "SAT"
+  },
+  {
+    "airport": "San Carlos de Bariloche",
+    "country": "Argentina",
+    "iata": "BRC"
+  },
+  {
+    "airport": "San Diego - Lindberg Field International (CA)",
+    "country": "USA",
+    "iata": "SAN"
+  },
+  {
+    "airport": "San Francisco - International Airport, SA",
+    "country": "USA",
+    "iata": "SFO"
+  },
+  {
+    "airport": "San Jose Cabo",
+    "country": "Mexico",
+    "iata": "SJD"
+  },
+  {
+    "airport": "San Jose",
+    "country": "Costa Rica",
+    "iata": "SJO"
+  },
+  {
+    "airport": "San Jose (CA)",
+    "country": "USA",
+    "iata": "SJC"
+  },
+  {
+    "airport": "San Luis Obisco (CA)",
+    "country": "USA",
+    "iata": "SBP"
+  },
+  {
+    "airport": "San Luis Potosi",
+    "country": "Mexico",
+    "iata": "SLP"
+  },
+  {
+    "airport": "San Pedro Sula",
+    "country": "Honduras",
+    "iata": "SAP"
+  },
+  {
+    "airport": "San Salvador - Bahamas",
+    "country": "Bahamas",
+    "iata": "ZSA"
+  },
+  {
+    "airport": "San Salvador",
+    "country": "El Salvador",
+    "iata": "SAL"
+  },
+  {
+    "airport": "Sandspit",
+    "country": "Canada",
+    "iata": "YZP"
+  },
+  {
+    "airport": "Santa Barbara (CA)",
+    "country": "USA",
+    "iata": "SBA"
+  },
+  {
+    "airport": "Santa Cruz de la Sierra",
+    "country": "Bolivia",
+    "iata": "SRZ"
+  },
+  {
+    "airport": "Santa Maria (CA)",
+    "country": "USA",
+    "iata": "SMX"
+  },
+  {
+    "airport": "Santa Rosa (CA)",
+    "country": "USA",
+    "iata": "STS"
+  },
+  {
+    "airport": "Santa Rosa - Bolivia",
+    "country": "Bolivia",
+    "iata": "SRB"
+  },
+  {
+    "airport": "Santa Rosa",
+    "country": "Brazil",
+    "iata": "SRA"
+  },
+  {
+    "airport": "Santa Rosa - Argentina",
+    "country": "Argentina",
+    "iata": "RSA"
+  },
+  {
+    "airport": "Santa Rosa, Copan",
+    "country": "Honduras",
+    "iata": "SDH"
+  },
+  {
+    "airport": "Santa Rosalia - Colombia",
+    "country": "Colombia",
+    "iata": "SSL"
+  },
+  {
+    "airport": "Santa Rosalia",
+    "country": "Mexico",
+    "iata": "SRL"
+  },
+  {
+    "airport": "Santiago - Antonio Maceo Airport",
+    "country": "Cuba",
+    "iata": "SCU"
+  },
+  {
+    "airport": "Santiago de Chile - Arturo Merino Benitez",
+    "country": "Chile",
+    "iata": "SCL"
+  },
+  {
+    "airport": "Santo Domingo",
+    "country": "Dominican Republic",
+    "iata": "SDQ"
+  },
+  {
+    "airport": "Sao Luis - Marechal Cunha Machado International",
+    "country": "Brazil",
+    "iata": "SLZ"
+  },
+  {
+    "airport": "Sao Paulo",
+    "country": "Brazil",
+    "iata": "SAO"
+  },
+  {
+    "airport": "Sao Paulo - Congonhas",
+    "country": "Brazil",
+    "iata": "CGH"
+  },
+  {
+    "airport": "Sao Paulo - Viracopos",
+    "country": "Brazil",
+    "iata": "VCP"
+  },
+  {
+    "airport": "Sarasota/Bradenton (FL)",
+    "country": "USA",
+    "iata": "SRQ"
+  },
+  {
+    "airport": "Saskatoon",
+    "country": "Canada",
+    "iata": "YXE"
+  },
+  {
+    "airport": "Savannah (GA)",
+    "country": "USA",
+    "iata": "SAV"
+  },
+  {
+    "airport": "Scarborough - Crown Point International",
+    "country": "Trinidad and Tobago",
+    "iata": "TAB"
+  },
+  {
+    "airport": "Scottsdale (AZ)",
+    "country": "USA",
+    "iata": "SCF"
+  },
+  {
+    "airport": "Seattle/Tacoma (WA)",
+    "country": "USA",
+    "iata": "SEA"
+  },
+  {
+    "airport": "Shamattawa, MB",
+    "country": "Canada",
+    "iata": "ZTM"
+  },
+  {
+    "airport": "Shenandoah Valley/Stauton (VA)",
+    "country": "USA",
+    "iata": "SHD"
+  },
+  {
+    "airport": "Sheridan (WY)",
+    "country": "USA",
+    "iata": "SHR"
+  },
+  {
+    "airport": "Shreveport, La",
+    "country": "USA",
+    "iata": "SHV"
+  },
+  {
+    "airport": "Sidney (MT)",
+    "country": "USA",
+    "iata": "SDY"
+  },
+  {
+    "airport": "Sioux City IA",
+    "country": "USA",
+    "iata": "SUX"
+  },
+  {
+    "airport": "Sioux Falls (SD)",
+    "country": "USA",
+    "iata": "FSD"
+  },
+  {
+    "airport": "Sitka (AK)",
+    "country": "USA",
+    "iata": "SIT"
+  },
+  {
+    "airport": "Skagway (AK)",
+    "country": "USA",
+    "iata": "SGY"
+  },
+  {
+    "airport": "Smithers",
+    "country": "Canada",
+    "iata": "YYD"
+  },
+  {
+    "airport": "South Bend (IN)",
+    "country": "USA",
+    "iata": "SBN"
+  },
+  {
+    "airport": "South Indian Lake, MB",
+    "country": "Canada",
+    "iata": "XSI"
+  },
+  {
+    "airport": "Spokane (WA)",
+    "country": "USA",
+    "iata": "GEG"
+  },
+  {
+    "airport": "Springfield (IL)",
+    "country": "USA",
+    "iata": "SPI"
+  },
+  {
+    "airport": "Springfield (MO)",
+    "country": "USA",
+    "iata": "SGF"
+  },
+  {
+    "airport": "St. Augustin, PQ",
+    "country": "Canada",
+    "iata": "YIF"
+  },
+  {
+    "airport": "St. George (UT)",
+    "country": "USA",
+    "iata": "SGU"
+  },
+  {
+    "airport": "St. John's",
+    "country": "Canada",
+    "iata": "YYT"
+  },
+  {
+    "airport": "St. Kitts",
+    "country": "St. Kitts and Nevis",
+    "iata": "SKB2"
+  },
+  {
+    "airport": "St. Louis (MO) Lambert–St. Louis International Airport",
+    "country": "USA",
+    "iata": "STL"
+  },
+  {
+    "airport": "St. Lucia Hewanorra",
+    "country": "Saint Lucia",
+    "iata": "UVF"
+  },
+  {
+    "airport": "St. Lucia Vigle",
+    "country": "Saint Lucia",
+    "iata": "SLU"
+  },
+  {
+    "airport": "St. Pierre, NF",
+    "country": "Canada",
+    "iata": "FSP"
+  },
+  {
+    "airport": "State College/Belefonte (PA)",
+    "country": "USA",
+    "iata": "SCE"
+  },
+  {
+    "airport": "Steamboat Springs (CO)",
+    "country": "USA",
+    "iata": "HDN"
+  },
+  {
+    "airport": "Stockton (CA)",
+    "country": "USA",
+    "iata": "SCK"
+  },
+  {
+    "airport": "Sun Valley (ID)",
+    "country": "USA",
+    "iata": "SUN"
+  },
+  {
+    "airport": "Syracuse (NY)",
+    "country": "USA",
+    "iata": "SYR"
+  },
+  {
+    "airport": "Talkeetna (AK)",
+    "country": "USA",
+    "iata": "TKA"
+  },
+  {
+    "airport": "Tallahassee (FL)",
+    "country": "USA",
+    "iata": "TLH"
+  },
+  {
+    "airport": "Tampa - International (FL)",
+    "country": "USA",
+    "iata": "TPA"
+  },
+  {
+    "airport": "Tampico - Gen. F. Javier Mina",
+    "country": "Mexico",
+    "iata": "TAM"
+  },
+  {
+    "airport": "Tegucigalpa",
+    "country": "Honduras",
+    "iata": "TGU"
+  },
+  {
+    "airport": "Telluride (CO)",
+    "country": "USA",
+    "iata": "TEX"
+  },
+  {
+    "airport": "Teresina",
+    "country": "Brazil",
+    "iata": "THE"
+  },
+  {
+    "airport": "Terrace",
+    "country": "Canada",
+    "iata": "YXT"
+  },
+  {
+    "airport": "Terre Haute (IN)",
+    "country": "USA",
+    "iata": "HUF"
+  },
+  {
+    "airport": "Texarkana (AR)",
+    "country": "USA",
+    "iata": "TXK"
+  },
+  {
+    "airport": "The Pas",
+    "country": "Canada",
+    "iata": "YQD"
+  },
+  {
+    "airport": "Thief River Falls (MN)",
+    "country": "USA",
+    "iata": "TVF"
+  },
+  {
+    "airport": "Thompson",
+    "country": "Canada",
+    "iata": "YTH"
+  },
+  {
+    "airport": "Thorne Bay (AK)",
+    "country": "USA",
+    "iata": "KTB"
+  },
+  {
+    "airport": "Thunder Bay",
+    "country": "Canada",
+    "iata": "YQT"
+  },
+  {
+    "airport": "Tijuana - Rodriguez",
+    "country": "Mexico",
+    "iata": "TIJ"
+  },
+  {
+    "airport": "Toledo (OH)",
+    "country": "USA",
+    "iata": "TOL"
+  },
+  {
+    "airport": "Toronto - Billy Bishop Toronto City Airport",
+    "country": "Canada",
+    "iata": "YTZ"
+  },
+  {
+    "airport": "Toronto - Toronto Pearson International Airport",
+    "country": "Canada",
+    "iata": "YYZ"
+  },
+  {
+    "airport": "Toronto",
+    "country": "Canada",
+    "iata": "YTO"
+  },
+  {
+    "airport": "Traverse City (MI)",
+    "country": "USA",
+    "iata": "TVC"
+  },
+  {
+    "airport": "Treasure Cay",
+    "country": "Bahamas",
+    "iata": "TCB"
+  },
+  {
+    "airport": "Trenton/Princeton (NJ)",
+    "country": "USA",
+    "iata": "TTN"
+  },
+  {
+    "airport": "Tri-Cities Regional (TN) /VA",
+    "country": "USA",
+    "iata": "TRI"
+  },
+  {
+    "airport": "Tucson (AZ)",
+    "country": "USA",
+    "iata": "TUS"
+  },
+  {
+    "airport": "Tulepo (MS)",
+    "country": "USA",
+    "iata": "TUP"
+  },
+  {
+    "airport": "Tulsa (OK)",
+    "country": "USA",
+    "iata": "TUL"
+  },
+  {
+    "airport": "Tuscaloosa (AL)",
+    "country": "USA",
+    "iata": "TCL"
+  },
+  {
+    "airport": "Tuxtla Gutierrez",
+    "country": "Mexico",
+    "iata": "TGZ"
+  },
+  {
+    "airport": "Twin Falls (ID)",
+    "country": "USA",
+    "iata": "TWF"
+  },
+  {
+    "airport": "Tyler (TX)",
+    "country": "USA",
+    "iata": "TYR"
+  },
+  {
+    "airport": "Uberaba",
+    "country": "Brazil",
+    "iata": "UBA"
+  },
+  {
+    "airport": "Uberlandia - Eduardo Gomes Airport",
+    "country": "Brazil",
+    "iata": "UDI"
+  },
+  {
+    "airport": "Ukiah (CA)",
+    "country": "USA",
+    "iata": "UKI"
+  },
+  {
+    "airport": "Umiujaq",
+    "country": "Canada",
+    "iata": "YUD"
+  },
+  {
+    "airport": "Unalakleet (AK)",
+    "country": "USA",
+    "iata": "UNK"
+  },
+  {
+    "airport": "Union Island",
+    "country": "Saint Vincent and the Grenadines",
+    "iata": "UNI"
+  },
+  {
+    "airport": "Upala",
+    "country": "Costa Rica",
+    "iata": "UPL"
+  },
+  {
+    "airport": "Upolu Point (HI)",
+    "country": "USA",
+    "iata": "UPP"
+  },
+  {
+    "airport": "Uranium City",
+    "country": "Canada",
+    "iata": "YBE"
+  },
+  {
+    "airport": "Uriman",
+    "country": "Venezuela",
+    "iata": "URM"
+  },
+  {
+    "airport": "Uruapan",
+    "country": "Mexico",
+    "iata": "UPN"
+  },
+  {
+    "airport": "Urubupunga - Ernesto Pochler Airport",
+    "country": "Brazil",
+    "iata": "URB"
+  },
+  {
+    "airport": "Uruguaiana - Ruben Berta Airport",
+    "country": "Brazil",
+    "iata": "URG"
+  },
+  {
+    "airport": "Ushuaia - Islas Malvinas Airport",
+    "country": "Argentina",
+    "iata": "USH"
+  },
+  {
+    "airport": "Utica (NY) - Oneida County Airport",
+    "country": "USA",
+    "iata": "UCA"
+  },
+  {
+    "airport": "Utila",
+    "country": "Honduras",
+    "iata": "UII"
+  },
+  {
+    "airport": "Vail (CO)",
+    "country": "USA",
+    "iata": "EGE"
+  },
+  {
+    "airport": "Val d'Or",
+    "country": "Canada",
+    "iata": "YVO"
+  },
+  {
+    "airport": "Valdez (AK)",
+    "country": "USA",
+    "iata": "VDZ"
+  },
+  {
+    "airport": "Valdosta (GA)",
+    "country": "USA",
+    "iata": "VLD"
+  },
+  {
+    "airport": "Valencia",
+    "country": "Venezuela",
+    "iata": "VLN"
+  },
+  {
+    "airport": "Valparaiso",
+    "country": "Chile",
+    "iata": "VAP"
+  },
+  {
+    "airport": "Vancouver - Vancouver International",
+    "country": "Canada",
+    "iata": "YVR"
+  },
+  {
+    "airport": "Varadero",
+    "country": "Cuba",
+    "iata": "VRA"
+  },
+  {
+    "airport": "Veracruz",
+    "country": "Mexico",
+    "iata": "VER"
+  },
+  {
+    "airport": "Vernal (UT)",
+    "country": "USA",
+    "iata": "VEL"
+  },
+  {
+    "airport": "Vero Beach/Ft. Pierce (FL)",
+    "country": "USA",
+    "iata": "VRB"
+  },
+  {
+    "airport": "Victoria",
+    "country": "Canada",
+    "iata": "YYJ"
+  },
+  {
+    "airport": "Villahermosa",
+    "country": "Mexico",
+    "iata": "VSA"
+  },
+  {
+    "airport": "Visalia (CA)",
+    "country": "USA",
+    "iata": "VIS"
+  },
+  {
+    "airport": "Vitoria - Eurico de Aguiar Salles Airport",
+    "country": "Brazil",
+    "iata": "VIX"
+  },
+  {
+    "airport": "Wabush",
+    "country": "Canada",
+    "iata": "YWK"
+  },
+  {
+    "airport": "Waco (TX)",
+    "country": "USA",
+    "iata": "ACT"
+  },
+  {
+    "airport": "Walla Walla (WA)",
+    "country": "USA",
+    "iata": "ALW"
+  },
+  {
+    "airport": "Washington DC - Baltimore Washington International",
+    "country": "USA",
+    "iata": "BWI"
+  },
+  {
+    "airport": "Washington DC - Dulles International",
+    "country": "USA",
+    "iata": "IAD"
+  },
+  {
+    "airport": "Washington DC - Ronald Reagan National",
+    "country": "USA",
+    "iata": "DCA"
+  },
+  {
+    "airport": "Washington DC",
+    "country": "USA",
+    "iata": "WAS"
+  },
+  {
+    "airport": "Waterloo IA",
+    "country": "USA",
+    "iata": "ALO"
+  },
+  {
+    "airport": "Watertown (SD)",
+    "country": "USA",
+    "iata": "ATY"
+  },
+  {
+    "airport": "Wausau/Stevens Point (WI)",
+    "country": "USA",
+    "iata": "CWA"
+  },
+  {
+    "airport": "Wenatchee (WA)",
+    "country": "USA",
+    "iata": "EAT"
+  },
+  {
+    "airport": "West Palm Beach (FL)",
+    "country": "USA",
+    "iata": "PBI"
+  },
+  {
+    "airport": "West Yellowstone (MT)",
+    "country": "USA",
+    "iata": "WYS"
+  },
+  {
+    "airport": "Whale Cove, NT",
+    "country": "Canada",
+    "iata": "YXN"
+  },
+  {
+    "airport": "White Plains (NY)",
+    "country": "USA",
+    "iata": "HPN"
+  },
+  {
+    "airport": "Whitehorse",
+    "country": "Canada",
+    "iata": "YXY"
+  },
+  {
+    "airport": "Wichita Falls (TX)",
+    "country": "USA",
+    "iata": "SPS"
+  },
+  {
+    "airport": "Wichita (KS)",
+    "country": "USA",
+    "iata": "ICT"
+  },
+  {
+    "airport": "Wilkes Barre/Scranton (PA)",
+    "country": "USA",
+    "iata": "AVP"
+  },
+  {
+    "airport": "Williamsport (PA)",
+    "country": "USA",
+    "iata": "IPT"
+  },
+  {
+    "airport": "Williston (ND)",
+    "country": "USA",
+    "iata": "ISL"
+  },
+  {
+    "airport": "Wilmington (NC)",
+    "country": "USA",
+    "iata": "ILM"
+  },
+  {
+    "airport": "Windsor Ontario",
+    "country": "Canada",
+    "iata": "YQG"
+  },
+  {
+    "airport": "Winnipeg International",
+    "country": "Canada",
+    "iata": "YWG"
+  },
+  {
+    "airport": "Wolf Point (MT)",
+    "country": "USA",
+    "iata": "OLF"
+  },
+  {
+    "airport": "Worcester (MA)",
+    "country": "USA",
+    "iata": "ORH"
+  },
+  {
+    "airport": "Worland (WY)",
+    "country": "USA",
+    "iata": "WRL"
+  },
+  {
+    "airport": "Wrangell (AK)",
+    "country": "USA",
+    "iata": "WRG"
+  },
+  {
+    "airport": "Yakima (WA)",
+    "country": "USA",
+    "iata": "YKM"
+  },
+  {
+    "airport": "Yakutat (AK)",
+    "country": "USA",
+    "iata": "YAK"
+  },
+  {
+    "airport": "Yellowknife",
+    "country": "Canada",
+    "iata": "YZF"
+  },
+  {
+    "airport": "Yuma (AZ)",
+    "country": "USA",
+    "iata": "YUM"
+  },
+  {
+    "airport": "Zacatecas",
+    "country": "Mexico",
+    "iata": "ZCL"
+  }
+]

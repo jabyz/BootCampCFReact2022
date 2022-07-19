@@ -1,0 +1,158 @@
+[
+  {
+    "PAIS": "Antigua and Barbuda",
+    "CODE": "AG"
+  },
+  {
+    "PAIS": "Argentina",
+    "CODE": "AR"
+  },
+  {
+    "PAIS": "Bahamas",
+    "CODE": "BS"
+  },
+  {
+    "PAIS": "Barbados",
+    "CODE": "BB"
+  },
+  {
+    "PAIS": "Belize",
+    "CODE": "BZ"
+  },
+  {
+    "PAIS": "Bolivia",
+    "CODE": "BO"
+  },
+  {
+    "PAIS": "Brazil",
+    "CODE": "BR"
+  },
+  {
+    "PAIS": "Canada",
+    "CODE": "CA"
+  },
+  {
+    "PAIS": "Chile",
+    "CODE": "CL"
+  },
+  {
+    "PAIS": "Colombia",
+    "CODE": "CO"
+  },
+  {
+    "PAIS": "Costa Rica",
+    "CODE": "CR"
+  },
+  {
+    "PAIS": "Cuba",
+    "CODE": "CU"
+  },
+  {
+    "PAIS": "Dominica",
+    "CODE": "DM"
+  },
+  {
+    "PAIS": "Dominican Republic",
+    "CODE": "DO"
+  },
+  {
+    "PAIS": "Ecuador",
+    "CODE": "EC"
+  },
+  {
+    "PAIS": "El Salvador",
+    "CODE": "SV"
+  },
+  {
+    "PAIS": "Grenada",
+    "CODE": "GD"
+  },
+  {
+    "PAIS": "Guatemala",
+    "CODE": "GT"
+  },
+  {
+    "PAIS": "Guyana",
+    "CODE": "GY"
+  },
+  {
+    "PAIS": "Haiti",
+    "CODE": "HT"
+  },
+  {
+    "PAIS": "Honduras",
+    "CODE": "HN"
+  },
+  {
+    "PAIS": "Jamaica",
+    "CODE": "JM"
+  },
+  {
+    "PAIS": "Mexico",
+    "CODE": "MX"
+  },
+  {
+    "PAIS": "Nicaragua",
+    "CODE": "NI"
+  },
+  {
+    "PAIS": "Panama",
+    "CODE": "PA"
+  },
+  {
+    "PAIS": "Paraguay",
+    "CODE": "PY"
+  },
+  {
+    "PAIS": "Peru",
+    "CODE": "PE"
+  },
+  {
+    "PAIS": "Saint Kitts and Nevis",
+    "CODE": "KN"
+  },
+  {
+    "PAIS": "Saint Lucia",
+    "CODE": "LC"
+  },
+  {
+    "PAIS": "Saint Vincent & the Grenadines",
+    "CODE": "VC"
+  },
+  {
+    "PAIS": "Saint Vincent and the Grenadines",
+    "CODE": "VC"
+  },
+  {
+    "PAIS": "St. Kitts and Nevis",
+    "CODE": "KN"
+  },
+  {
+    "PAIS": "Suriname",
+    "CODE": "SR"
+  },
+  {
+    "PAIS": "The Bahamas",
+    "CODE": "BS"
+  },
+  {
+    "PAIS": "Trinidad and Tobago",
+    "CODE": "TT"
+  },
+  {
+    "PAIS": "Uruguay",
+    "CODE": "UY"
+  },
+  {
+    "PAIS": "USA",
+    "CODE": "US"
+  },
+  {
+    "PAIS": "USA (LA)",
+    "CODE": "US"
+  },
+  {
+    "PAIS": "Venezuela",
+    "CODE": "VE"
+  }
+]
